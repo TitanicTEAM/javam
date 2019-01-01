@@ -16,7 +16,7 @@ do local _ = {
       "BP-MGR.lua",
       "pv.lua"
     },
-    token = "493994104:AAGjkO0WKk4Zx3Eq2dwm3PP5q72cBSuiRWs"
+    token = "493994104:AAHdH-dTKVJQ1XZjAbCv2K7U1UBPW9SBxnc"
   },
   log = {
     admin = 113274401,
@@ -33,7 +33,6 @@ do local _ = {
   print = false,
   sudo_users = {
     113274401,
-    12345789
   }
 }
 return _
